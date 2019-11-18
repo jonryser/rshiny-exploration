@@ -1,0 +1,10 @@
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+.Rproj.user
+.httr-oauth
+*~
+.DS_Store
+rsconnect
+data/io*
